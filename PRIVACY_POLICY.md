@@ -19,7 +19,7 @@ Thank you for using "Real Boss." Your privacy and the security of your business 
 ### 3. Permissions Justification
 - **Storage**: Used to save your settings, routines, and activity history locally.
 - **Notifications & Alarms**: Used to provide timely reminders for your scheduled routines.
-- **Scripting & Host Permissions**: Required to extract settlement data from platforms (e.g., Baemin, Coupang) and to automate AI prompt entry for your convenience.
+- **Scripting & Host Permissions**: automate AI prompt entry for your convenience.
 
 ### 4. Continuous Control
 Users have full control over their data. You can clear all data by resetting the extension settings or by uninstalling the extension.
@@ -41,11 +41,10 @@ Users have full control over their data. You can clear all data by resetting the
 ### 3. 주요 권한 및 사용 목적
 - **저장소(Storage)**: 설정값, 루틴 항목, 활동 내역을 로컬에 안전하게 보관하기 위해 사용합니다.
 - **알림 및 알람(Notifications & Alarms)**: 설정하신 루틴 마감 시간에 맞춰 푸시 알림을 제공하기 위해 사용합니다.
-- **스크립트 및 호스트 권한**: 배달 플랫폼(배민, 쿠팡 등)에서 정산 데이터를 집계하고, AI 서비스 입력창에 프롬프트를 자동으로 주입하기 위해 사용합니다.
+- **스크립트 및 호스트 권한**: AI 서비스 입력창에 프롬프트를 자동으로 주입하기 위해 사용합니다.
 
 ### 4. 사용자의 자기결정권
 사장님은 언제든 익스텐션의 데이터를 초기화하거나 삭제할 수 있는 권한을 가집니다. 익스텐션을 삭제하면 로컬에 저장된 모든 데이터도 함께 삭제됩니다.
 
 ---
 
-**Contact / 문의**: [Your Contact Info / 사장님 지원 채널]
